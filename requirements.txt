@@ -3,4 +3,5 @@ langchain
 langchain-openai
 langchain-groq
 ipykernel
-tavely-python
+tavily-python
+python-dotenv
